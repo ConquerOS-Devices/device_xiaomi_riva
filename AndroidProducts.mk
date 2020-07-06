@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cygnus_riva.mk
+    $(LOCAL_DIR)/conquer_riva.mk
 
 COMMON_LUNCH_CHOICES := \
-     cygnus_riva-userdebug
+     conquer_riva-userdebug
